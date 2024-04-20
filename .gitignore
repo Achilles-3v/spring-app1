@@ -1,0 +1,14 @@
+
+out/
+target/
+
+.idea/
+.settings/
+
+.classpath
+.project
+
+*.iml
+*.xml
+*.csv
+*.temp
