@@ -1,6 +1,7 @@
 
 out/
 target/
+build/
 
 .idea/
 .settings/
