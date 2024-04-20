@@ -9,6 +9,5 @@ target/
 .project
 
 *.iml
-*.xml
 *.csv
 *.temp
